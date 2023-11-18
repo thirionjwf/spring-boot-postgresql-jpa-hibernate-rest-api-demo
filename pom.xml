@@ -11,11 +11,11 @@
 	<description>Demo project for Spring Boot</description>
 
 	<scm>
-		<connection>scm:git:https://github.com/thirionjwf/spring-boot-postgresql-jpa-hibernate-rest-api-demo.git</connection>
-		<developerConnection>scm:git:https://github.com/thirionjwf/spring-boot-postgresql-jpa-hibernate-rest-api-demo.git</developerConnection>
+		<connection>scm:git:git@github.com:thirionjwf/spring-boot-postgresql-jpa-hibernate-rest-api-demo.git</connection>
+		<developerConnection>scm:git:git@github.com:thirionjwf/spring-boot-postgresql-jpa-hibernate-rest-api-demo.git</developerConnection>
 		<url>https://github.com/thirionjwf/spring-boot-postgresql-jpa-hibernate-rest-api-demo</url>
-	  <tag>postgres-demo-0.0.1</tag>
-  </scm>
+		<tag>postgres-demo-0.0.1</tag>
+	</scm>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
